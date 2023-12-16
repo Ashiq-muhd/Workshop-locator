@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/win-10/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1325" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/drawable/button_border.xml" value="0.155" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/drawable/edittext_boder.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1325" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/drawable/ic_login.xml" value="0.1785" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_custom2.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_custom3.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_custom4.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_custom5.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_custom_workshop.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_first_login.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_payment.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_product_details.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_send_feedback.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_send_rating_abt_wrksp.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_send_reply_cmplt.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_send_request.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_send_update.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_track_mech.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_track_user.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_update_status.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_user_home.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_user_reg.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_view_assigned_work.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_view_nearby_wrksp.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_view_product_buy.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_view_reply.xml" value="0.22" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_view_request_status.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/layout/activity_workshop_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/win-10/StudioProjects/Workshoplocator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.184" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/trackmechbg"
+    tools:context=".Track_mech">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Mechanic name"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ListView
+            android:id="@+id/listview02"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </TableRow>
+</LinearLayout>
